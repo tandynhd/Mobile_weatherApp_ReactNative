@@ -11,5 +11,5 @@ This mode showcases the weather forecast for 4 major cities in Thailand over the
 2) The Current Location Mode
 This mode requires the users permission to access their Current location. After which the application uses the user's current location and fetches the weather forecast for the users current location over the period of a day.
 
-![](./CityMode.jpg)
-![](./CurrentLocation.jpg)
+![](./static/images/cityMode.jpg)
+![](./static/images/myLocation.jpg)
